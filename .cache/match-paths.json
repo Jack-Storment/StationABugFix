@@ -1,0 +1,22 @@
+[
+    {
+        "path": "/app/",
+        "matchPath": "/app/*"
+    },
+    {
+        "path": "/app/builder/",
+        "matchPath": "/app/*"
+    },
+    {
+        "path": "/app/dashboard/",
+        "matchPath": "/app/*"
+    },
+    {
+        "path": "/r/",
+        "matchPath": "/r/*"
+    },
+    {
+        "path": "/r/view/",
+        "matchPath": "/r/*"
+    }
+]
